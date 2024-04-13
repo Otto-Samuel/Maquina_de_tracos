@@ -9,7 +9,7 @@
 The background color is `#31d5f7` for light mode and `#0969DA` for dark mode.
 
 <div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" alt="Imagem de DNA" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" alt="Imagem de DNA" style="width: 160px; height: auto; margin-right: 30px;">
     <p style="flex: 0 1 auto; font-size: 14px">programa feito em C usando conceitos de programas monolítico, iterativo e recursivo.
     <br><br>
     Que tem como objetivo de armazenar traços e comparar com outros programas
