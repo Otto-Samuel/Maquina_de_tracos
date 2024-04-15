@@ -16,14 +16,12 @@
 ### 📚Descrição:
 
 <div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" alt="Imagem de DNA" style="width: 150px; height: auto; margin-right: 20px;">
-    
-  <p style="flex: 0 1 auto; font-size: 14px; font-family: ">
-      Este projeto em C aborda o desafio da cifra de DNA, uma tarefa que envolve interpretar sequências de moléculas de DNA e mapeá-las para letras do alfabeto e caracteres especiais. Implementamos três abordagens distintas para resolver esse problema: uma solução monolítica, uma solução recursiva e uma solução iterativa. Cada uma dessas abordagens possui suas próprias características e pode ser mais adequada dependendo do contexto e dos requisitos específicos do projeto.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" alt="Imagem de DNA" style="width: 150px; height: auto; margin-right: 20px;">
+
+Este projeto em C aborda o desafio da cifra de DNA, uma tarefa que envolve interpretar sequências de moléculas de DNA e mapeá-las para letras do alfabeto e caracteres especiais. Implementamos três abordagens distintas para resolver esse problema: uma solução monolítica, uma solução recursiva e uma solução iterativa. Cada uma dessas abordagens possui suas próprias características e pode ser mais adequada dependendo do contexto e dos requisitos específicos do projeto.
 
   <br>
-  </p>
-    
+      
 </div>
 
 <div>
