@@ -1,0 +1,16 @@
+
+import random
+
+def generate_random_number():
+    return random.randint(1, 100)
+
+class AProject:
+    def __init__(self):
+        self.random_number = generate_random_number()
+
+    def display_random_number(self):
+        print("O número aleatório é:", self.random_number)
+
+ap = AProject()
+
+ap.display_random_number()
