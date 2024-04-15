@@ -2,25 +2,33 @@
 
 <br>
 
- - problema: **problema da cifra de DNA** 🧬
+ problema: **problema da cifra de DNA** 🧬
 <br><br>
 <img src="https://img.shields.io/badge/Language-C-blue"/>
 
-The background color is `#31d5f7` for light mode and `#0969DA` for dark mode.
+
+- trabalho feito por [`Otto Samuel`](https://github.com/Otto-Samuel)  e `Julio Mateus` para a disciplina de <u>**Teoria da computação**</u> no **Centro Universitario do Estado Do Pará**.
+<br><br>
+
+### 📊 Objetivo:
+ 
+ Implementar três abordagens distintas para resolver o problema da cifra de DNA, uma tarefa que envolve interpretar sequências de moléculas de DNA e mapeá-las para letras do alfabeto e caracteres especiais.
+### 📚Descrição:
 
 <div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" alt="Imagem de DNA" style="width: 160px; height: auto; margin-right: 30px;">
-    <p style="flex: 0 1 auto; font-size: 14px">programa feito em C usando conceitos de programas monolítico, iterativo e recursivo.
-    <br><br>
-    Que tem como objetivo de armazenar traços e comparar com outros programas
-    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/DNA_orbit_animated_small.gif" alt="Imagem de DNA" style="width: 150px; height: auto; margin-right: 20px;">
     
+  <p style="flex: 0 1 auto; font-size: 14px; font-family: ">
+      Este projeto em C aborda o desafio da cifra de DNA, uma tarefa que envolve interpretar sequências de moléculas de DNA e mapeá-las para letras do alfabeto e caracteres especiais. Implementamos três abordagens distintas para resolver esse problema: uma solução monolítica, uma solução recursiva e uma solução iterativa. Cada uma dessas abordagens possui suas próprias características e pode ser mais adequada dependendo do contexto e dos requisitos específicos do projeto.
+
+  <br><br>
+  </p>
     
 </div>
 
 <div>
 
- ### Tecnologias:
+ ### 🔬Tecnologias:
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-01215D?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -30,16 +38,17 @@ The background color is `#31d5f7` for light mode and `#0969DA` for dark mode.
 
 <br>
 
-### Instruções:
+### 🗒️Instruções:
 
 1. Clone este repositório;
 2. Abra o arquivo `Maquina.c` no Visual Studio Code;
 3. Compile o programa;
 4. Execute o programa;
 5. O programa deve ser executado com sucesso.
+
 <br>
 
-### 🧑‍💻 desenvolvedores
+### 👨‍💻 Equipe
 
 <table>
   <tr>
@@ -59,5 +68,4 @@ The background color is `#31d5f7` for light mode and `#0969DA` for dark mode.
      </td>
   </tr>
 </table>
-
 
