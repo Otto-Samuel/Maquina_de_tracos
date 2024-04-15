@@ -21,7 +21,7 @@
   <p style="flex: 0 1 auto; font-size: 14px; font-family: ">
       Este projeto em C aborda o desafio da cifra de DNA, uma tarefa que envolve interpretar sequências de moléculas de DNA e mapeá-las para letras do alfabeto e caracteres especiais. Implementamos três abordagens distintas para resolver esse problema: uma solução monolítica, uma solução recursiva e uma solução iterativa. Cada uma dessas abordagens possui suas próprias características e pode ser mais adequada dependendo do contexto e dos requisitos específicos do projeto.
 
-  <br><br>
+  <br>
   </p>
     
 </div>
