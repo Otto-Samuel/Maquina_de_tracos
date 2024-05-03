@@ -1,7 +1,5 @@
 **<h3 align="center" style="color:#31d5f7; "> Programas MONOLITICO, ITERATIVO e RECURSIVO (Maquina de traços) </h3>**
-
 <br>
-
  problema: **problema da cifra de DNA** 🧬
 <br><br>
 <img src="https://img.shields.io/badge/Language-C-blue"/>
